@@ -1,0 +1,15 @@
+Petar Kupcevic
+Ivan Prodavacevic
+4
+Pivo Osjecko 0.5l
+5.99
+120
+Brandy Badel 1l
+69.99
+5
+Vino Crno Ribar 1l
+12.99
+55
+Coca Cola 2l
+12.99
+20
