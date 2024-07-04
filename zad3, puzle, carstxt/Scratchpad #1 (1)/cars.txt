@@ -1,0 +1,10 @@
+Porsche TaycanTurboS 761 260.71 159663
+McLaren 765LT 765 329.92 319325
+Lamborghini AventadorSVJ 770 349.23 410560
+Rivian R1T 800 178.64 58163
+Ferrari 812Superfast 800 339.57 296516
+Dodge Demon 840 339.57 68427
+Tesla ModelSPlaid 1020 321.87 127707
+Koenigsegg Regera 1479 402.34 1710000
+Bugatti ChironSuperSport 1600 439.35 3140000
+Rimac Nevera 1914 415.21 1940000
